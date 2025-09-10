@@ -1,5 +1,5 @@
 ## Hi, I'm Dennis
- Computer Tech Student at Multimedia University of Kenya<br/>
+ Computer Tech<br/>
  Front end web Developer<br/>
  UI/UX Designer<br/>
 
